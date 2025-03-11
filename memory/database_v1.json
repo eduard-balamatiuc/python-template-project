@@ -1,0 +1,31 @@
+{
+    "budgets": [
+        {
+            "name": "new",
+            "description": "soemthin",
+            "current_amount": 1690,
+            "action_history": [
+                "+100",
+                "+100",
+                "+10 for groceries",
+                "+1000",
+                "+1000",
+                "+500 for yolooo"
+            ],
+            "goal": 1000
+        },
+        {
+            "name": "new",
+            "description": "somethin",
+            "current_amount": 1590,
+            "action_history": [
+                "+100",
+                "+10 for groceries",
+                "+1000",
+                "+1000",
+                "+500 for yolooo"
+            ],
+            "goal": 1000
+        }
+    ]
+}
