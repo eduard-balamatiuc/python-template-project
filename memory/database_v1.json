@@ -26,6 +26,23 @@
                 "+500 for yolooo"
             ],
             "goal": 1000
+        },
+        {
+            "name": "new_camera",
+            "description": "newcamera",
+            "current_amount": 90,
+            "action_history": [
+                "+100",
+                "-10 for lens"
+            ],
+            "goal": 1000
+        },
+        {
+            "name": "string",
+            "description": "string",
+            "current_amount": 0,
+            "action_history": [],
+            "goal": 100
         }
     ]
 }
